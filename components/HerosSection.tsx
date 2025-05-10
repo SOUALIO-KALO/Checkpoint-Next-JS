@@ -8,7 +8,7 @@ const HerosSection = () => {
       <div className=" flex flex-col items-center justify-center gap-10">
         <div className="text-center px-12">
           <h1 className="text-4xl font-bold pb-8">
-            Salut, je m'appelle Kalo Soualio
+            Salut, je m&apos;appelle Kalo Soualio
           </h1>
           <p className="text-xl text-gray-400">
             Je suis un développeur web passionné, spécialisé dans la création de

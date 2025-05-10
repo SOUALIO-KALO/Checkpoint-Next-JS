@@ -34,14 +34,14 @@ const SkillsSection = () => {
       <div className="text-center mb-14">
         <h2 className="text-3xl font-bold mb-4">My Skills</h2>
         <p className="text-gray-500 text-lg">
-          Technologies and skills I've been working with
+          Technologies et compétences avec lesquelles j&apos;ai travaillé
         </p>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {skills.map((skill, index) => (
           <Card
             key={index}
-            className="bg-[#0a0a0a] text-white border-gray-700 transition-all hover:shadow-lg hover:-translate-y-1"
+            className="bg-[#0a0a0a] text-white border-neutral-600 transition-all hover:shadow-lg hover:-translate-y-1"
           >
             <CardContent className="flex flex-col items-center gap-4">
               <div className="bg-[#121212] p-4 rounded-full">

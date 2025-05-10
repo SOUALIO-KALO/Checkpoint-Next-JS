@@ -28,7 +28,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#0a0a0a] border-t border-gray-500 py-12 px-4 xl:px-20 2xl:px-32 mt-auto">
+    <footer className="bg-[#0a0a0a] border-t border-neutral-600 py-12 px-4 xl:px-20 2xl:px-32 mt-auto">
       <div className="flex items-center justify-between">
         <div className="flex flex-col gap-2">
           <Link href="/" className="text-xl font-bold">

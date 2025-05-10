@@ -32,7 +32,7 @@ const Navbar = () => {
   const pathName = usePathname();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-gray-500 bg-[#0a0a0a]/80 backdrop-blur-md text-white flex justify-between items-center py-6 px-4 xl:px-20 2xl:px-32">
+    <header className="sticky top-0 z-50 border-b border-neutral-600 bg-[#0a0a0a]/80 backdrop-blur-md text-white flex justify-between items-center py-6 px-4 xl:px-20 2xl:px-32">
       <div className="">
         <Link href="/" className="text-xl font-bold">
           Porfolio
