@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Lien de ploiement
-[Cliquez ici](https://porfolio-nextjs-xi.vercel.app/)
+[Cliquez ici](https://porfolio-nextjs-xi.vercel.app/) pour visualiser le projet déployé.
 
 ## Getting Started
 
