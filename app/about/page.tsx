@@ -1,6 +1,5 @@
 import { AboutContent } from "@/components/AboutContent";
 import { EducationSection } from "@/components/EducationSection";
-// import { ExperienceSection } from "@/components/ExperienceSection";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -12,7 +11,6 @@ const About = () => {
   return (
     <div className="bg-[#121212]">
       <AboutContent />
-      {/* <ExperienceSection /> */}
       <EducationSection />
     </div>
   );
